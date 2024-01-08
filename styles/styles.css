@@ -1,0 +1,79 @@
+/* shared styles */
+
+/* header related style */
+
+.header {
+  background-image: url(../resources/Banner\ Image.png);
+  border-radius: 16px;
+  width: 1320px;
+  height: 600px;
+}
+
+/* nav related styles */
+
+nav {
+  color: #fff;
+  font-family: Merriweather;
+  text-align: center;
+}
+.nave-title {
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 177px;
+}
+.nave-title-content {
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 95px;
+  padding-bottom: 187px;
+}
+/* /main section */
+.about {
+  width: 1600px;
+  height: 7335px;
+  
+  text-align: center;
+  font-family: Inter;
+}
+.section-title {
+  color: #f00;
+
+  font-size: 88px;
+  font-style: normal;
+  font-weight: 700;
+
+  margin-top: 120px;
+  margin-bottom: 48px;
+  padding-left: 80px;
+  padding-right: 300px;
+}
+.section-title-2 {
+  color: #f00;
+
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  padding-left: 80px;
+  padding-right: 300px;
+}
+.section-categories{
+    color: #070211;
+
+
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+padding-left: 80px;
+  padding-right: 300px;
+}
+.image{
+
+    padding-left: 80px;
+  padding-right: 300px;
+  width: 802.9px;
+height: 500px;
+flex-shrink: 0;
+}
