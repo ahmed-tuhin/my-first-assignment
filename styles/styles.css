@@ -157,7 +157,7 @@ margin-top: 120px;
   text-align: center;
   font-family: Inter;
   font-size: 20px;
-  font-style: normal;
+  
   font-weight: 700;
   line-height: normal;
   text-transform: uppercase;
@@ -165,4 +165,25 @@ margin-top: 120px;
   background: #F00;
   padding: 16px 32px;
 border-color: transparent;
+}
+.new-offer{
+  width: 1600px;
+  height: 7335px;
+
+margin-top: 20px;
+display: flex;
+justify-content: space-around;
+}
+.class-description{
+  width: 276px;
+  padding-right: 300px;
+}
+.span-color{
+
+  color:#FF0000;
+}
+.picture{
+
+  margin-top: 120px;
+  padding-left: 700px;
 }
