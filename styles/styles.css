@@ -1,5 +1,5 @@
 /* shared styles */
-
+body{}
 /* header related style */
 
 .header {
@@ -128,3 +128,41 @@ font-weight: 700;
 line-height: normal;
 text-transform: uppercase;
 padding-left: 160px;}
+
+.sheule{
+  width: 1320px;
+  height: 482px;
+  flex-shrink: 0;
+  font-size: 32px;
+  background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+text-align: center;
+margin-top: 120px;
+
+}
+.shedule-color{color: #F00;
+  text-align: center;
+  font-family: Inter;
+
+
+
+
+}
+.span{
+  align-items: center;
+  padding-top: 100px;
+ 
+}
+.btn{
+  color: #FFF;
+  text-align: center;
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  border-radius: 8px;
+  background: #F00;
+  padding: 16px 32px;
+border-color: transparent;
+}
